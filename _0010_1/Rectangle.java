@@ -1,4 +1,4 @@
-package backend_0010;
+package _0010_1;
 
 public class Rectangle implements Perarea {
     //私有化成员变量

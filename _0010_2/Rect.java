@@ -1,4 +1,4 @@
-package backend_0010;
+package _0010_2;
 
 public class Rect {
     //私有化成员变量:矩形的宽 width；矩形的高 height

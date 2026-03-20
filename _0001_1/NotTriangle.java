@@ -1,4 +1,4 @@
-package backend_0001;
+package _0001_1;
 
 public class NotTriangle extends Exception{
     // 自定义异常 的构造方法

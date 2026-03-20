@@ -1,4 +1,4 @@
-package backend_0001;
+package _0001_1;
 
 public class Triangle {
     //属性:三个边长

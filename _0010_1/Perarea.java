@@ -1,4 +1,4 @@
-package backend_0010;
+package _0010_1;
 
 public interface Perarea {
     double get_area();

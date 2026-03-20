@@ -1,4 +1,4 @@
-package backend_0010;
+package _0010_2;
 
 public class Test2 {
     static void main() {

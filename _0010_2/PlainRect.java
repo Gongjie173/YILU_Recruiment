@@ -1,4 +1,4 @@
-package backend_0010;
+package _0010_2;
 
 //通过继承 Rect 类，编写一个具有确定位置的矩形类 PlainRect，其确定位置用矩形的左上角坐标来标识
 public class PlainRect extends Rect {
